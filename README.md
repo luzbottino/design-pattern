@@ -1,2 +1,2 @@
-# designer-pattern
-This project is about designer pattern studies
+# design-pattern
+This project is about design-pattern studies
