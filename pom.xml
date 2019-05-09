@@ -6,7 +6,11 @@
 
     <groupId>br.com.bottinocode</groupId>
     <artifactId>design-pattern</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>designer-pattern</module>
+    </modules>
 
 
 </project>
